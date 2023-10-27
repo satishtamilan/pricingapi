@@ -1,0 +1,65 @@
+{
+   "vehicle":[
+      {
+         "id":0,
+         "vehicleLine":"L460",
+         "modelYear":"24MY",
+         "modelYearCode":"001CK",
+         "salesCountryISOCode":"PT",
+         "version":"1",
+         "effectiveFromDate":"2023-01-01",
+         "effectiveToDate":"2023-12-31",
+         "currency":"EUR",
+         "pricingFormat":"List Price",
+         "derivativePackCode":"460DC",
+         "derivativePackDesc":"Standard 249PS Auto",
+         "brochureModelCode":"AF460",
+         "brochureModelDesc":"3.0D I6 AWD 5 dr SWB",
+         "modelAvailability":true,
+         "listPrice":103198.56,
+         "sellableUnitCode":"5000823828",
+         "specificationMarketCode":"800PH",
+         "specificationMarketPARCode":"POR",
+         "optionPackPricing":[
+            {
+               "optionPackCode":"017ED",
+               "price":2997.02,
+               "OptionPack":[
+                  {
+                     "marketingDescription":"Hot Climate Pack"
+                  }
+               ]
+            }
+         ],
+         "featurePricing":[
+            {
+               "featureCode":"011AE",
+               "price":361.34,
+               "Feature":[
+                  {
+                     "marketingDescription":"Secure Tracker"
+                  }
+               ]
+            }
+         ],
+         "accessories":[
+            {
+               "AccCode":"011AE",
+               "price":361.34,
+               "Feature":[
+                  {
+                     "marketingDescription":"Hot climate pack"
+                  }
+               ]
+            }
+         ],
+         "staticFees":[
+            {
+               "type":"Reservation Fee",
+               "amount":200.0,
+               "taxApplicable":true
+            }
+         ]
+      }
+   ]
+}
